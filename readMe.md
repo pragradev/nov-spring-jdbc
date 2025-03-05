@@ -46,3 +46,17 @@ do similer example but use path variable
 
 
 
+
+Relational: SQL: PL-sql 
+mysql
+
+H2 Database - In memory database - relational db
+
+
+Exercise:
+convert your properties file to yml file
+have a h2 database in dependency and connect to that database , check console
+Schema.sql
+Data.sql
+fetch student data and send back in api
+
